@@ -1,0 +1,21 @@
+﻿<Window x:Class="FormRecTesting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FormRecTesting"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image Source="logo.png" HorizontalAlignment="Left"></Image>
+        <Label FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">AI Smart Linking Document Tool</Label>
+        <Label Name="result" Grid.Row="1"></Label>
+        <Button Name="uploadFile" Click="uploadFile_Click" Margin="10" Width="200" Height="100" Grid.Row="2" BorderBrush="Black" FontSize="20"
+                Foreground="White" Background="DarkBlue">Upload File</Button>
+    </Grid>
+</Window>

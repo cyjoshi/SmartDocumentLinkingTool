@@ -1,0 +1,110 @@
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.csprojAssemblyReference.cache
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\MainWindow.g.cs
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\App.g.cs
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting_Content.g.cs
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting_MarkupCompile.cache
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting_MarkupCompile.lref
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\mongocrypt.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\snappy32.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\snappy64.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\libzstd.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\FormRecTesting.exe.config
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\FormRecTesting.exe
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\FormRecTesting.pdb
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\Azure.AI.FormRecognizer.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\Azure.Core.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\DnsClient.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Bson.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Driver.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.LibMongocrypt.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\SharpCompress.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Buffers.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Memory.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Text.Json.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.ValueTuple.dll
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\Azure.AI.FormRecognizer.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\Azure.Core.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\DnsClient.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Bson.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Driver.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Buffers.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Memory.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Text.Json.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\bin\Debug\System.ValueTuple.xml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\MainWindow.baml
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.g.resources
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.Properties.Resources.resources
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.csproj.GenerateResource.cache
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.csproj.CoreCompileInputs.cache
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.csproj.CopyComplete
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.exe
+C:\Users\cvanw\Documents\School\Capstone Project\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.pdb
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\mongocrypt.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\snappy32.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\snappy64.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\libzstd.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\FormRecTesting.exe.config
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\FormRecTesting.exe
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\FormRecTesting.pdb
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\Azure.AI.FormRecognizer.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\Azure.Core.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\DnsClient.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Bson.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Driver.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.LibMongocrypt.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\SharpCompress.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Buffers.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Memory.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Text.Json.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.ValueTuple.dll
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\Azure.AI.FormRecognizer.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\Azure.Core.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\DnsClient.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Bson.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Driver.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Buffers.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Memory.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Text.Json.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\bin\Debug\System.ValueTuple.xml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.csprojAssemblyReference.cache
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\MainWindow.g.cs
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\App.g.cs
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting_Content.g.cs
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting_MarkupCompile.cache
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting_MarkupCompile.lref
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\MainWindow.baml
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.g.resources
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.Properties.Resources.resources
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.csproj.GenerateResource.cache
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.csproj.CoreCompileInputs.cache
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.csproj.CopyComplete
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.exe
+C:\Users\chait\Documents\CAD2020_Sem2\INFO2300_Project_Development\Final_Presentation\FormRecTesting\FormRecTesting\FormRecTesting\obj\Debug\FormRecTesting.pdb
